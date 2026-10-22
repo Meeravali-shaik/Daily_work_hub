@@ -1,0 +1,7 @@
+{
+  "name": "Daily Work Hub",
+  "description": "Cloud-backed personal productivity app with calendar, tasks, habits, goals, time tracker, focus timer, job search, notes, and sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
